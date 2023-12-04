@@ -1,7 +1,6 @@
 ## Olá! eu sou o Artur👨‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-cadorin/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arturcadorin/)
 
 Estudante de Engenharia de Software, entusiasta da programação e sempre em busca da evolução!
