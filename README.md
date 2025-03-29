@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-cadorin/)
 
-Estudante de Engenharia de Software, entusiasta da programação e sempre em busca da evolução!
+Graduado em Engenharia de Software!
 
 ![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=arturcadorin&show_icons=true&theme=tokyonight)
 
