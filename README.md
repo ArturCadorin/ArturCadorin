@@ -1,6 +1,6 @@
 # Bem vindo! Meu nome é Artur!😄
 
-## [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-cadorin/)
+## Acesse meu LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-cadorin/)
 
 ## Graduado em Engenharia de Software!
 
