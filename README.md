@@ -4,7 +4,7 @@
 
 ## Graduado em Engenharia de Software!
 
-### <center>![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=arturcadorin&show_icons=true&theme=tokyonight)</center>
+<center>![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=arturcadorin&show_icons=true&theme=tokyonight)</center>
 
 ## Tecnologias usadas
 
