@@ -4,7 +4,7 @@
 
 ![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=arturcadorin&show_icons=true&theme=tokyonight)
 
-## Tecnologias utilizadas
+## Tecnologias
 
 <div>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
