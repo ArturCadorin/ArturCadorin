@@ -1,8 +1,11 @@
 # 👋 Bem-vindo! Eu sou o Artur! 
 
 🎓 **Graduado em Engenharia de Software pela UniCesumar**, comprometido em desenvolver soluções inteligentes, otimizadas e escaláveis.
+
 💡 Tenho experiência na criação de aplicações escaláveis, integrações entre sistemas e manipulação de APIs REST.
+
 🌐 🎓 Graduated in Software Engineering, committed to developing smart, optimized, and scalable solutions.
+
 🌐 💡 I have experience in building scalable applications, integrating systems, and working with REST APIs.
 
 
