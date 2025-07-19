@@ -1,4 +1,7 @@
 # 👋 Welcome! I'm Artur!
+
+🔗 Connect with me on [LinkedIn](https://linkedin.com/in/artur-cadorin/)
+
 ## 🧠 Somethings about me
 
 - 🎓 Graduated in Software Engineering
@@ -7,8 +10,6 @@
 - 🚀 Enthusiast of development best practices and impactful software solutions
 
 ---
-
-![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=arturcadorin&show_icons=true&theme=tokyonight)
 
 ## Stacks
 
@@ -21,3 +22,12 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+![Artur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arturcadorin&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturcadorin&layout=compact&theme=tokyonight)
+
+---
