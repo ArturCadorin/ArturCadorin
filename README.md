@@ -1,10 +1,17 @@
-# Bem vindo! Eu sou o Artur! [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-cadorin/)
+# 👋 Bem-vindo! Eu sou o Artur! 
 
-## Graduado em Engenharia de Software!
+## 🧠 Sobre mim
+
+- 🎓 Formado em Engenharia de Software pela **UniCesumar**
+- 🔁 Experiência com **integração entre sistemas**, **APIs** e soluções escaláveis.
+- 🧰 Trabalhando com **Java, Spring Boot, Groovy, Python e PostgreSQL**
+- 🚀 Entusiasta de boas práticas de desenvolvimento e soluções de impacto real
+
+---
 
 ![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=arturcadorin&show_icons=true&theme=tokyonight)
 
-## Tecnologias
+## Stacks
 
 <div>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
