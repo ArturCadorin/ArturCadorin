@@ -1,5 +1,13 @@
 # 👋 Bem-vindo! Eu sou o Artur! 
 
+🎓 **Graduado em Engenharia de Software pela UniCesumar**, comprometido em desenvolver soluções inteligentes, otimizadas e escaláveis.
+💡 Tenho experiência na criação de aplicações escaláveis, integrações entre sistemas e manipulação de APIs REST.
+![EN](https://img.shields.io/badge/Language-EN-blue?style=for-the-badge)🎓 Graduated in Software Engineering, committed to developing smart, optimized, and scalable solutions.
+![EN](https://img.shields.io/badge/Language-EN-blue?style=for-the-badge)💡 I have experience in building scalable applications, integrating systems, and working with REST APIs.
+
+
+---
+
 ## 🧠 Sobre mim
 
 - 🎓 Formado em Engenharia de Software pela **UniCesumar**
