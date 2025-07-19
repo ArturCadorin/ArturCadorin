@@ -1,22 +1,10 @@
-# 👋 Bem-vindo! Eu sou o Artur! 
+# 👋 Welcome! I'm Artur!
+## 🧠 Somethings about me
 
-🎓 **Graduado em Engenharia de Software pela UniCesumar**, comprometido em desenvolver soluções inteligentes, otimizadas e escaláveis.
-
-💡 Tenho experiência na criação de aplicações escaláveis, integrações entre sistemas e manipulação de APIs REST.
-
-🌐 🎓 Graduated in Software Engineering, committed to developing smart, optimized, and scalable solutions.
-
-🌐 💡 I have experience in building scalable applications, integrating systems, and working with REST APIs.
-
-
----
-
-## 🧠 Sobre mim
-
-- 🎓 Formado em Engenharia de Software pela **UniCesumar**
-- 🔁 Experiência com **integração entre sistemas**, **APIs** e soluções escaláveis.
-- 🧰 Trabalhando com **Java, Spring Boot, Groovy, Python e PostgreSQL**
-- 🚀 Entusiasta de boas práticas de desenvolvimento e soluções de impacto real
+- 🎓 Graduated in Software Engineering
+- 🔁 Experience with **system integration**, **APIs**, and scalable solutions
+- 🧰 Working with **Java, Spring Boot, Groovy, Python, and PostgreSQL**
+- 🚀 Enthusiast of development best practices and impactful software solutions
 
 ---
 
