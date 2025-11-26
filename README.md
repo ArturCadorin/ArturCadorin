@@ -26,10 +26,3 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-![Artur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arturcadorin&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturcadorin&layout=compact&theme=tokyonight)
-
----
