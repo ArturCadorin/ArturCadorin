@@ -48,7 +48,7 @@
 ## 📊 GitHub stats
 
 <div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ArturCadorin&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ArturCadorin&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCadorin&layout=compact&hide_border=true&theme=default" />
 </div>
 
