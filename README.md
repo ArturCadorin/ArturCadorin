@@ -13,8 +13,6 @@
 - 🎓 Graduated in Software Engineering
 - 🔁 Experience with **system integration**, **APIs**, and scalable solutions
 - 🧰 Working with **Java, Spring Boot, Next.js, TypeScript, and PostgreSQL**
-- 🚀 Enthusiast of development best practices and impactful software solutions
-- 🏗️ Building **myLife** — a personal finance & lifestyle management app
 
 </details>
 
@@ -28,8 +26,6 @@
 - 🎓 Graduado em Engenharia de Software
 - 🔁 Experiência com **integração de sistemas**, **APIs** e soluções escaláveis
 - 🧰 Trabalhando com **Java, Spring Boot, Next.js, TypeScript e PostgreSQL**
-- 🚀 Entusiasta de boas práticas de desenvolvimento e soluções com impacto real
-- 🏗️ Desenvolvendo o **myLife** — app pessoal de finanças e gestão de estilo de vida
 
 </details>
 
