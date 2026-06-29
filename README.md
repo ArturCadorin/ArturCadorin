@@ -1,55 +1,72 @@
-<!-- EN -->
-# 👋 Welcome! I'm Artur!
+<div align="center">
 
-🔗 Connect with me on [LinkedIn](https://linkedin.com/in/artur-cadorin/)
+# Hi, I'm Artur 👋
+
+**Software Engineer · System Integration · APIs · Scalable Solutions**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-cadorin/)
+&nbsp;
+![Location](https://img.shields.io/badge/Criciúma,_SC_—_Brazil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</div>
 
 ---
 
 <details open>
 <summary>🇬🇧 English</summary>
 
-## 🧠 Something about me
+### About me
 
-- 🎓 Graduated in Software Engineering
-- 🔁 Experience with **system integration**, **APIs**, and scalable solutions
-- 🧰 Working with **Java, Spring Boot, Next.js, TypeScript, and PostgreSQL**
+- 🎓 Graduated in **Software Engineering**
+- 🏢 Working at **Betha Sistemas**
+- 🔁 Experienced in **system integration**, **REST APIs**, and scalable architectures
+- 🧰 Daily stack: **Java · Spring Boot · TypeScript · Next.js · PostgreSQL · Docker**
 
 </details>
-
----
 
 <details>
 <summary>🇧🇷 Português</summary>
 
-## 🧠 Sobre mim
+### Sobre mim
 
-- 🎓 Graduado em Engenharia de Software
-- 🔁 Experiência com **integração de sistemas**, **APIs** e soluções escaláveis
-- 🧰 Trabalhando com **Java, Spring Boot, Next.js, TypeScript e PostgreSQL**
+- 🎓 Graduado em **Engenharia de Software**
+- 🏢 Trabalhando na **Betha Sistemas**
+- 🔁 Experiência com **integração de sistemas**, **APIs REST** e arquiteturas escaláveis
+- 🧰 Stack do dia a dia: **Java · Spring Boot · TypeScript · Next.js · PostgreSQL · Docker**
 
 </details>
 
 ---
 
-## 💻 Tech stack
+## 💻 Tech Stack
+
+**Backend**
 
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</div>
+
+**Frontend**
+
+<div>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</div>
+
+**Data & Infra**
+
+<div>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 
-<div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ArturCadorin&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCadorin&layout=compact&hide_border=true&theme=default" />
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArturCadorin&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCadorin&layout=compact&hide_border=true&theme=default" />
 </div>
-
----
