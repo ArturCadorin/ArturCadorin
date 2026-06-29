@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Artur 👋
-
-**Software Engineer · System Integration · APIs · Scalable Solutions**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&color=0A66C2&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Artur+%F0%9F%91%8B;Software+Engineer;System+Integration+%7C+APIs;Java+%C2%B7+Spring+Boot+%7C+Next.js)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-cadorin/)
 &nbsp;
