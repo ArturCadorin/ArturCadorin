@@ -8,28 +8,21 @@
 
 </div>
 
----
-
-### Sobre mim
-
 - 🎓 Graduado em **Engenharia de Software**
 - 🏢 Trabalhando na **Betha Sistemas**
 - 🔁 Experiência com **integração de sistemas**, **APIs REST** e arquiteturas escaláveis
-- 🧰 Stack do dia a dia: **Java · Spring Boot · TypeScript · Next.js · PostgreSQL · Docker**
 
 ---
-
-## 💻 Tecnologias
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,ts,nextjs,postgres,docker&perline=7" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
-
----
-
-## 📊 Estatísticas
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArturCadorin&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br" />
